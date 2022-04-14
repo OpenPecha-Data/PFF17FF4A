@@ -1,0 +1,29 @@
+id: PFF17FF4A
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA00EGS1017319
+  instance_id: http://purl.bdrc.io/resource/IE00EGS1017319
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - བོད་ལྗོངས་ངལ་རྩོལ་གླུ་གཞས།
+  alt_title: {}
+  author: None
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    1be2d9cbe1d84e3dae1d66d0cbf324ee:
+      title: པོད ༡་བོད་ལྗོངས་ངལ་རྩོལ་གླུ་གཞས
+      volume_number: 1
+      base_file: UT00EGS1017319_I00EGS1017321_0000.txt
+      reference: http://purl.bdrc.io/resource/VL989B2CCD5B73B7E0
+      image_group: I00EGS1017321
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W00EGS1017319
+  - http://purl.bdrc.io/resource/MW00EGS1017319
+  ocr_software: Namsel
+created_at: '2021-12-22T10:13:57.429985'
+last_modified_at: '2021-12-22T10:13:57.429992'
